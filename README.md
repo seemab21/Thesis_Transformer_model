@@ -1,6 +1,6 @@
 # Thesis_Transformer_model
 
-Dataset from Biomedical Informatics Laboratory  
+Dataset from Biomedical Informatics Laboratory  <br/>
 The Smart-Insole dataset, includes data from a pair of pressure sensors insoles - 29 Participants
 Moticon SCIENCE pressure sensor Insole has 16 pressure sensors and a 6 – Axis Inertial Measurement Unit (IMU) sensor for acceleration and angular raw data.
 The dataset mainly has 2 groups; Elderly people and Parkison Patients.
